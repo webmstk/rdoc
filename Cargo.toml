@@ -1,0 +1,10 @@
+[package]
+name = "cargo-rdoc"
+version = "1.0.0"
+edition = "2024"
+license = "Unlicense"
+description = "Print compact tests output in terminal as sentences."
+repository = "https://github.com/webmstk/rdoc"
+
+[dependencies]
+colored = "3.1.1"
